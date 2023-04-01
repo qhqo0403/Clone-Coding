@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.main_visual {
+  background: url(https://d3udu241ivsax2.cloudfront.net/v3/images/brand/main-bg.0c2e95bfd550759a46367d3abb3d05df.png) no-repeat center center;
+}
